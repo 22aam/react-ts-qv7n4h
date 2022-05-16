@@ -204,3 +204,4 @@ while ($count < 10)
   # prints "puppies@codecademy.com"
   echo filter_var("<p>u</p>pies@codecademy.com", FILTER_VALIDATE_EMAIL);
   # returns false and prints nothing
+  
